@@ -1,0 +1,27 @@
+{
+  "name": "@backlight-dev/another-one.furious-kwnnsfs2",
+  "version": "0.0.2",
+  "description": "Furious - a design system based on FAST Frame",
+  "license": "MIT",
+  "repository": "github:divriots/starter-furious",
+  "homepage": "https://backlight.dev/preview/xS11aQmjMLIvr5PU5Mru/",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "serve": "npx backlight@latest serve r86civF72P8s5f0Nusox --open"
+  },
+  "dependencies": {
+    "@microsoft/fast-colors": "^5.1.3",
+    "@microsoft/fast-components": "^2.14.2",
+    "@microsoft/fast-element": "^1.6.1",
+    "@microsoft/fast-foundation": "^2.23.1",
+    "@microsoft/fast-web-utilities": "^5.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "lit": "^2.0.2",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.17"
+  }
+}
