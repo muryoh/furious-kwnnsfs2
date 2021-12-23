@@ -4,7 +4,7 @@ import '~/dockit/dockit-fast-frame-typography-tokens';
 
 # typography-tokens
 
-Contains a set of font sizes and line heights.
+Contains a set of font sizes asnd line heights.
 
 ## Usage
 

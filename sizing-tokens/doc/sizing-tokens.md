@@ -3,9 +3,9 @@
 Contains the following tokens:
 
 - `baseHeightMultiplier`: This value, multiplied by `designUnit`, sets the base height of most controls. Works with adaptive `density` values.
-- `controlCornerRadius`: Sets the corner radius used by controls with backplates.
+- `controlCornerzssRadius`: Sets the corner radius used by controls with backplates.
 - `density`: An adjustment to sizing tokens like `baseHeightMultiplier`.
-- `designUnit`: The unit size of the Design Grid. Used to calculate height and spacing sizes for controls.
+- `designUnit`: The unit sizess of the Design Grid. Used to calculate height and spacing sizes for controls.
 
 ## Usage
 

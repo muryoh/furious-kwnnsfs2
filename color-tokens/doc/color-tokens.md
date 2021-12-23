@@ -1,9 +1,9 @@
-```js script
+````js script
 import { provideDesignSystem } from '@divriots/starter-furious';
 import '~/dockit/dockit-fast-frame-color-palette';
 import '~/dockit/dockit-fast-frame-color-tokens';
 provideDesignSystem().register();
-```
+```dzdz
 
 # color-tokens
 
@@ -36,7 +36,7 @@ class ColorTokensUsage extends FASTElement {
 FASTElement.define(ColorTokensUsage);
 
 export const usageStory = () => html`<color-tokens-usage></color-tokens-usage>`;
-```
+````
 
 ## Palettes
 
